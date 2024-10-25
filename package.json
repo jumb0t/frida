@@ -1,0 +1,16 @@
+{
+  "name": "frida",
+  "version": "1.0.0",
+  "description": "![Frida Logo](https://frida.re/images/frida-logo.png)",
+  "main": "loaded_modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "frida": "^16.5.6"
+  }
+}
